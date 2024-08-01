@@ -1,0 +1,13 @@
+git commands
+
+==> git clone repo-url
+
+==> git add filename
+
+==> git add . 
+(add all changed files)
+
+==> git commit -m "optional message"
+
+==> git push
+
