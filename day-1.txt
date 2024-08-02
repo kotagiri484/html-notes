@@ -1,0 +1,61 @@
+git commands
+
+==> git clone repo-url
+
+==> git add filename
+
+==> git add . 
+(add all changed files)
+
+==> git commit -m "optional message"
+
+==> git push
+
+https ==> hyper text transfer protocol with security
+
+http ==> hyper text transfer protocol
+
+URL ==> uniform resource locator
+
+DNS ==> domain name system
+
+WWW ==> world wide web
+
+HTML ==> hyper text markup language
+
+
+language types
+
+==> statically typed languages
+
+(C, C++, JAVA) here we need to specify the datatype and
+
+==> dynamically typed languages
+
+(JavaScript, Python) , here we don’t need to specify the datatype
+
+
+
+git commands
+
+phases in git
+==> working
+==> staging/index
+==> local repository
+
+command to clone repository ==> git clone repo-url
+
+working to staging/index ==> git add filename (for specific file name) or git add . (for select all
+files)
+
+staging/index to local repository ==> git commit -m " commit message"
+
+local repository to central repository ==> git push
+
+creating a branch ==> git branch branch-name
+
+check the branch list ==> git branch
+
+checkout to creating branch ==> git checkout branch-name
+
+create branch and checkout at the same time ==> git checkout -b branch-name
