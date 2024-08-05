@@ -59,3 +59,4 @@ check the branch list ==> git branch
 checkout to creating branch ==> git checkout branch-name
 
 create branch and checkout at the same time ==> git checkout -b branch-name
+difference b/w git merege and git rebase
